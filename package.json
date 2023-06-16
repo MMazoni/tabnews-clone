@@ -1,0 +1,22 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "curso.dev Course with Filipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMazoni/tabnews-clone.git"
+  },
+  "keywords": [
+    "tabnews"
+  ],
+  "author": "Matheus Mazoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MMazoni/tabnews-clone/issues"
+  },
+  "homepage": "https://github.com/MMazoni/tabnews-clone#readme"
+}
