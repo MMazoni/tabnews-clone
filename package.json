@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/MMazoni/tabnews-clone/issues"
   },
-  "homepage": "https://github.com/MMazoni/tabnews-clone#readme"
+  "homepage": "https://github.com/MMazoni/tabnews-clone#readme",
+  "dependencies": {
+    "next": "13.1",
+    "react": "18.2",
+    "react-dom": "18.2"
+  }
 }
