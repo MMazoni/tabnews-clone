@@ -2,8 +2,8 @@ FROM node:lts-hydrogen
 
 WORKDIR /app
 
-COPY ../package*.json ./
-COPY docker-entrypoint.sh /docker-entrypoint.sh
+COPY package*.json ./
+COPY .ergomake/docker-entrypoint.sh /docker-entrypoint.sh
 
 COPY . .
 
